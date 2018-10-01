@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintPath": "C:\\Users\\Fabiano\\Documents\\projetospython3\\mysite\\virtualenv\\Scripts\\python",
+    "python.pythonPath": "${workspaceFolder}\\virtualenv\\Scripts\\python",
+    
+    
+}
